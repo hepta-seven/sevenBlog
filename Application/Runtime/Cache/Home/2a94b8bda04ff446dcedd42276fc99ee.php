@@ -24,17 +24,17 @@
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alegreya+SC:regular,italic,bold,bolditalic"/>
 
     <!-- css -->
-    <link rel="stylesheet" href="/hepta-seven/Public/Home/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="/hepta-seven/Public/Home/css/font-awesome.min.css"/>
-    <link rel="stylesheet" href="/hepta-seven/Public/Home/css/style.css" />
+    <link rel="stylesheet" href="/sevenBlog/Public/Home/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/sevenBlog/Public/Home/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="/sevenBlog/Public/Home/css/style.css" />
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-    <script src="/hepta-seven/Public/Home/js/respond.js"></script>
+    <script src="/sevenBlog/Public/Home/js/respond.js"></script>
     <![endif]-->
 
     <!--[if IE 8]>
-    <script src="/hepta-seven/Public/Home/js/selectivizr.js"></script>
+    <script src="/sevenBlog/Public/Home/js/selectivizr.js"></script>
     <![endif]-->
 </head>
 
@@ -101,7 +101,7 @@
             </section>
             <section class="bottom">
                 <a id="scrollToContent" href="#">
-                    <img src="/hepta-seven/Public/Home/images/arrow_down.png">
+                    <img src="/sevenBlog/Public/Home/images/arrow_down.png">
                 </a>
             </section>
         </div>
@@ -119,36 +119,36 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <a href="http://wangjiaqi.applinzi.com" class="recent-work" target="_blank"
-                           style="background-image:url(/hepta-seven/Public/Home/images/pc.png)">
+                           style="background-image:url(/sevenBlog/Public/Home/images/pc.png)">
                             <span class="btn btn-o-white">点击查看网页</span>
                         </a>
                     </div>
                     <div class="col-sm-4">
                         <a href="http://demo.bigbug.tech/shop/index.html" class="recent-work" target="_blank"
-                           style="background-image:url(/hepta-seven/Public/Home/images/shopping.png)">
+                           style="background-image:url(/sevenBlog/Public/Home/images/shopping.png)">
                             <span class="btn btn-o-white">点击查看网页</span>
                         </a>
                     </div>
                     <div class="col-sm-4">
                         <a href="#" class="recent-work"
-                           style="background-image:url(/hepta-seven/Public/Home/images/pc.png)">
+                           style="background-image:url(/sevenBlog/Public/Home/images/pc.png)">
                             <span class="btn btn-o-white">点击查看视频</span>
                         </a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-4">
-                        <a href="#" class="recent-work" style="background-image:url(/hepta-seven/Public/Home/images/pc.png)">
+                        <a href="#" class="recent-work" style="background-image:url(/sevenBlog/Public/Home/images/pc.png)">
                             <span class="btn btn-o-white">点击查看</span>
                         </a>
                     </div>
                     <div class="col-sm-4">
-                        <a href="#" class="recent-work" style="background-image:url(/hepta-seven/Public/Home/images/pc.png)">
+                        <a href="#" class="recent-work" style="background-image:url(/sevenBlog/Public/Home/images/pc.png)">
                             <span class="btn btn-o-white">点击查看</span>
                         </a>
                     </div>
                     <div class="col-sm-4">
-                        <a href="#" class="recent-work" style="background-image:url(/hepta-seven/Public/Home/images/pc.png)">
+                        <a href="#" class="recent-work" style="background-image:url(/sevenBlog/Public/Home/images/pc.png)">
                             <span class="btn btn-o-white">点击查看</span>
                         </a>
                     </div>
@@ -202,7 +202,7 @@
             <!--<section class="block-body">-->
             <!--<div class="row">-->
             <!--<div class="col-sm-4 blog-post">-->
-            <!--<img src="/hepta-seven/Public/Home/images/bike_water1-1000x600.jpg">-->
+            <!--<img src="/sevenBlog/Public/Home/images/bike_water1-1000x600.jpg">-->
             <!--<a href="#"><h2>Design Your Mind</h2></a>-->
             <!--<div class="date">3 Nov, 2014</div>-->
             <!--<p>In at accumsan risus. Nam id volutpat ante. Etiam vel mi mattis, vulputate nunc nec, sodales-->
@@ -210,7 +210,7 @@
             <!--<a href="">Read More</a>-->
             <!--</div>-->
             <!--<div class="col-sm-4 blog-post">-->
-            <!--<img src="/hepta-seven/Public/Home/images/mac_glasses1-1000x600.jpg">-->
+            <!--<img src="/sevenBlog/Public/Home/images/mac_glasses1-1000x600.jpg">-->
             <!--<a href="#"><h2>Winter Is Comming</h2></a>-->
             <!--<div class="date">3 Nov, 2014</div>-->
             <!--<p>In at accumsan risus. Nam id volutpat ante. Etiam vel mi mattis, vulputate nunc nec, sodales-->
@@ -218,7 +218,7 @@
             <!--<a href="">Read More</a>-->
             <!--</div>-->
             <!--<div class="col-sm-4 blog-post">-->
-            <!--<img src="/hepta-seven/Public/Home/images/road-1000x600.jpg">-->
+            <!--<img src="/sevenBlog/Public/Home/images/road-1000x600.jpg">-->
             <!--<a href="#"><h2>The Illustration</h2></a>-->
             <!--<div class="date">3 Nov, 2014</div>-->
             <!--<p>In at accumsan risus. Nam id volutpat ante. Etiam vel mi mattis, vulputate nunc nec, sodales-->
@@ -274,12 +274,12 @@
 </div><!--/#wrapper-->
 
 
-<script src="/hepta-seven/Public/Home/js/jquery-2.1.3.min.js"></script>
-<script src="/hepta-seven/Public/Home/js/jquery-migrate-1.2.1.min.js"></script>
-<script src="/hepta-seven/Public/Home/js/bootstrap.min.js"></script>
-<script src="/hepta-seven/Public/Home/js/jquery.actual.min.js"></script>
-<script src="/hepta-seven/Public/Home/js/jquery.scrollTo.min.js"></script>
-<script src="/hepta-seven/Public/Home/js/script.js"></script>
+<script src="/sevenBlog/Public/Home/js/jquery-2.1.3.min.js"></script>
+<script src="/sevenBlog/Public/Home/js/jquery-migrate-1.2.1.min.js"></script>
+<script src="/sevenBlog/Public/Home/js/bootstrap.min.js"></script>
+<script src="/sevenBlog/Public/Home/js/jquery.actual.min.js"></script>
+<script src="/sevenBlog/Public/Home/js/jquery.scrollTo.min.js"></script>
+<script src="/sevenBlog/Public/Home/js/script.js"></script>
 
 </body>
 </html>
